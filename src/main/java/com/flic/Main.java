@@ -11,7 +11,9 @@ public class Main {
         System.out.println("feat2");
         System.out.println("feat2.1");
         System.out.println("feat3");
+        System.out.println("fix2");
         System.out.println("大版本更新2");
         System.out.println("瞎几把commit3");
+        System.out.println("dd");
     }
 }
